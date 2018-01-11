@@ -155,3 +155,15 @@ If the `enrolled` property is set to `true` then change that student's `graduate
 Console.log your result.
 */
 
+
+/* 15) Odd Couple
+Write a function that will loop through the multi-dimensional array and console.log the city and landmark on separate lines.
+Note, please use two for loops to complete this problem
+
+  @param Datatype: Array
+  */
+
+var guide = [["Honolulu", "Waikiki"], ["Tokyo", "Tsukiji Fish Market"], ["Cairo", "Pyramids"],["Rome", "Colosseum"]];
+
+
+  
