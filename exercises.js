@@ -144,7 +144,18 @@ var myWay = "i've lived a life that's full, i've traveled each and every highway
 
 
 
-/* 14) Back to School
+/* 14) Sightseeing
+Write a function that will loop through the multi-dimensional array and console.log the city and landmark on separate lines.
+Note, please use two for loops to complete this problem
+
+  @param Datatype: Array
+  */
+
+var guide = [["Honolulu", "Waikiki"], ["Tokyo", "Tsukiji Fish Market"], ["Cairo", "Pyramids"],["Rome", "Colosseum"]];
+
+
+
+/* 15) Back to School
 Declare a variable named `currentCohort` and set it's value to be this [array found here](https://gist.github.com/sgnl/e40879b2249e06ca7811).
 Write a function named `graduateAndSetNewClass`, which takes a single argument called `cohort`.
 
@@ -156,14 +167,7 @@ Console.log your result.
 */
 
 
-/* 15) Sightseeing
-Write a function that will loop through the multi-dimensional array and console.log the city and landmark on separate lines.
-Note, please use two for loops to complete this problem
 
-  @param Datatype: Array
-  */
-
-var guide = [["Honolulu", "Waikiki"], ["Tokyo", "Tsukiji Fish Market"], ["Cairo", "Pyramids"],["Rome", "Colosseum"]];
 
 
   
