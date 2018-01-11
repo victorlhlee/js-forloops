@@ -156,7 +156,7 @@ Console.log your result.
 */
 
 
-/* 15) Odd Couple
+/* 15) Sightseeing
 Write a function that will loop through the multi-dimensional array and console.log the city and landmark on separate lines.
 Note, please use two for loops to complete this problem
 
